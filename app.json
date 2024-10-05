@@ -1,16 +1,16 @@
 {
-  "name":"SKIPPER-MD",
-  "description":"An easy and simple WhatsApp bot developed by Tonny 408",
+  "name":"DEXTEROUS-MD",
+  "description":"An easy and simple WhatsApp bot developed BY 𓅃_LEWI ©",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/e78fcfd78dd8f2f3f6d8e.jpg",
-  "repository":"https://github.com/Tonny408/Skipper-Md",
+  "repository":"https://github.com/Lewislusweti/Skipper-Md",
   "succes_url":"/",
   "stack":"container",
   "env":{
     "PREFIX":
     {
       "description":"choose your prefix of bot",
-      "value":".",
+      "value":"©",
       "required":true
     },
     "AUTO_READ_STATUS":
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"SKIPPER-MD",
+      "value":"DEXTEROUS-MD",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Tonny 408"
+    "value": "𓅃_LEWI ©"
   },
     "OWNER_NUMBER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254798780465"
+    "value": "254741749876"
   },
     "WARN_COUNT":
   {
